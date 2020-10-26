@@ -3,13 +3,15 @@ This Java Maven Project takes Kraken ledgers.csv and calculates gains, losses, p
 The program calculates the values without guarantee of completeness and correctness and should be considered as an estimate only.
 This programm is not finished yet. 
 
-# Currently there is only ledger.csv from KRAKEN and teh currencies: [ZEUR, XXBT, XETH, LINK, ADA, XXRP, XLTC, DASH, KAVA] provided.
+- Currently there is only ledger.csv from KRAKEN and teh currencies: [ZEUR, XXBT, XETH, LINK, ADA, XXRP, XLTC, DASH, KAVA] provided.
 To add new currencies, you have to define the format and rounding option in the Calculator.java class.
 
-# To use this project, add your path to the main.java file: path = "add_path_to_ledger.cvs_here";
+- To use this project, add your path to the main.java file: path = "add_path_to_ledger.cvs_here";
 
-# The output is currently the balances and fees each year in the ledgers.csv like.
+- The output is currently the balances and fees each year in the ledgers.csv like.
 Taxes per trade in FIFO logig are yet to come.
+
+Output:
 YEAR:  2018   --------
 Asset: ZEUR Amount: 0.0
 Asset: XXBT Amount: 0.0
