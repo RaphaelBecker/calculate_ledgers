@@ -11,4 +11,4 @@ This program is not finished yet.
 
 - The output is currently the balances and fees each year in the ledgers.csv.
   - Taxes per trade in FIFO logic are yet to come.
-  - PDF export is yet to come
+  - PDF export is yet to come.
