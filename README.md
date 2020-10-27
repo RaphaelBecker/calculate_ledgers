@@ -9,6 +9,6 @@ This program is not finished yet.
   - currencies: [ZEUR, XXBT, XETH, LINK, ADA, XXRP, XLTC, DASH, KAVA]
   - To add new currencies, add new format and rounding option in the Calculator.java class.
 
-- The output is currently the balances and fees each year in the ledgers.csv like.
+- The output is currently the balances and fees each year in the ledgers.csv.
   - Taxes per trade in FIFO logic are yet to come.
   - PDF export is yet to come
