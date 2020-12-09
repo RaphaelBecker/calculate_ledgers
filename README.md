@@ -1,5 +1,5 @@
 # calculate_ledgers
-This Java Maven Project takes Kraken ledgers.csv and calculates gains, losses, potential taxes etc. for each year in FIFO logic.
+This Java Maven Project takes ledgers.csv and calculates gains, losses, potential taxes etc. for each year in FIFO logic.
 The program calculates the values without guarantee of completeness and correctness and should be considered as an estimate only.
 This program is not finished yet.
 - To use this project, add your path to the main.java file: path = "add_path_to_ledger.cvs_here";
