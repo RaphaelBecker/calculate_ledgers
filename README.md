@@ -9,3 +9,8 @@ This program is not finished yet.
   - currencies: [ZEUR, XXBT, XETH, LINK, ADA, XXRP, XLTC, DASH, KAVA]
   - To add new currencies, add new format and rounding option in the Calculator.java class.
 
+- Wish List:
+  - Introduce BigDecimal to avoid rounding issues
+  - Enable List PDF export per annum:
+    - Gains and losses per trade
+    - Tax estimation in FIFO logig      
